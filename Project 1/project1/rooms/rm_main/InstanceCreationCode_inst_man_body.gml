@@ -1,0 +1,1 @@
+if instance_exists(obj_man_body) visible = false;

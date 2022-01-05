@@ -1,2 +1,1 @@
-# GMS2-Projects
-These projects were created inside Game Maker Studio 2 during a game design course at Northern Arizona University.
+**This repository was used for CS413, in completing the assigned projects.**
