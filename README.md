@@ -1,1 +1,1 @@
-**This repository was used for CS413, in completing the assigned projects.**
+**This repository was used for CS-413 Virtual Worlds at Northern Arizona University. Each Project was created with Game Maker Studio 2 and programmed in the GML language. These projects are open-source and free for everyone to try.**
